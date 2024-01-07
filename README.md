@@ -1,5 +1,5 @@
 # SpiderGameWeb
-A spider moves in a cube from Start to End. On its way it gain scores. For one game the player pays a stake , for every top passed the player wins 1$.
+A spider moves in a cube from Start to End. On its way it gain scores. For one game the player pays a stake , for every top passed the player wins 1 score.
 
 Spider Cube Game
 The Spider Cube Game is a simple text-based game where a spider moves from one top to another within a cube. Players can earn money by randomly moving through the cube, with the goal of reaching the end.
